@@ -1,0 +1,15 @@
+Title: Brannon Dorsey
+----
+Author: Brannon Dorsey
+----
+Description: The creative portfolio of Brannon Dorsey
+----
+Keywords: creative code, programming, art and tech, saic, sculpture, photography
+----
+Copyright: © 2010-(date: Year) (link: http://brannondorsey.com text: Brannon Dorsey)
+----
+twitter: https://twitter.com/brannondorsey
+----
+Keywords: creative code, programming, art and tech, saic, sculpture, photography
+----
+Keywords: creative code, programming, art and tech, saic, sculpture, photography
