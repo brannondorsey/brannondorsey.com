@@ -72,8 +72,8 @@ div.header nav.navbar{
 div.project-thumbnail{
   position: relative;
   overflow: hidden;
-  width: 217px;
-  height: 217px;
+  width: 216px;
+  height: 216px;
   margin: 10px;
   display: block;
   float: left;
@@ -92,8 +92,8 @@ div.project-thumbnail{
   left: 0px;
   margin: 0px;
   padding: 0px;
-  width: 217px;
-  height: 217px;
+  width: 216px;
+  height: 216px;
 }
 
 .project-thumbnail span#title, .project-thumbnail span#media{
@@ -163,6 +163,15 @@ footer img{
   width: 956px;
 }
 
+.project p img.left, .project p img.right{
+  width: 466px;
+  float: left;
+}
+
+.project p img.right{
+  float: right;
+}
+
 .project p.text{
   width: 800px;
 }
@@ -175,7 +184,7 @@ footer img{
 .project a:hover{
 }
 
-.project span.title{
+.project span.title, .resume span.title{
   color: black;
   font-size: 20pt;
   margin: 20px 0px 10px 0px;
@@ -204,4 +213,28 @@ footer img{
   float: right;
 }
 
+/*------------------------------------------------------------*/
+/*STYLING FOR RESUME PAGE*/
+div.resume{
+  width: 440px;
+  margin: auto;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.resume h2{
+  text-align: center;
+  margin: 35px 0px 20px 20px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid black;
+  width: 100%;
+}
+
+.resume h3{
+  margin: 10px 0px;
+}
+
+.resume p{
+  display: inline;
+}
 

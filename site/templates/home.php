@@ -15,7 +15,7 @@ $('document').ready(function(){
 	if($work->hasChildren()) $projects = $work->children()->visible();
 	foreach($projects as $project){?>
 	<a href="<?php echo $project->url()?>" class="image-link">
-		<div class="project-thumbnail" <?php echo (trim($project->needsborder()) === "false") ?  "" : "id='border'"; ?> mouseover="showProjectInfo()" >
+		<div class="project-thumbnail" id="border" >
 			<span id="title"><span><?php  echo excerpt($project->title(), 20); ?></span></span>
 			<span id="media"><span><?php  echo excerpt($project->media(), 25); ?></span></span>
 			<img src="<?php echo $project->images()->find('thumbnail.png')->url(); ?>"/>

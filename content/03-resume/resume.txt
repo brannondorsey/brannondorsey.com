@@ -1,3 +1,55 @@
 Title: Resume
 ----
-Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a,
+Text: 
+##Education
+
+The School of the Art Institute of Chicago, 2012-2016
+Appomattox Regional Governor's School, 2008-2012
+Pre-College Program, the School of Visual Arts, 2011
+
+##Exhibitions
+
+###2013
+Leroy Neiman SUGS Gallery, Chicago, IL
+WWWIRED, Chicago, IL
+
+###2012
+Smithsonian American Art Museum, Washington D.C.
+John F. Kennedy Center, Washington D.C.
+Miami Art Museum, Miami, FL
+Virginia Museum of Fine Arts, Richmond, VA
+Drexel University, Philadelphia, PA
+
+###2011
+Drexel University, Philadelphia, PA
+The School of Visual Arts, New York City, NY
+Virginia State Capitol, Richmond, VA
+Virginia State Fair, Doswell, VA
+Petersburg Regional Art Center, Petersburg, VA
+Petersburg Area Art League, Petersburg, VA
+Petersburg Library, Petersburg, VA
+
+###2010
+Capitol One, Richmond, VA
+Drexel University, Philadelphia, PA
+Petersburg Area Art League, Petersburg, VA
+
+##Awards
+
+###2013 
+SAIC CP Outstanding New Artist Award
+
+###2012
+United States Presidential Scholar in the Arts
+YoungARTS National Finalist in Photography
+YoungARTS National Honorable Mention in Cinematic Arts
+Regional Scholastics Gold Key Portfolio
+Regional Scholastics Gold Key in Sculpture
+Regional Scholastics Gold Key in Sculpture
+
+###2011
+Regional Scholastics Silver Key in Photography
+Virginia State Fair Top Scholarship Award in 2-D Competition 
+SVA Pre-College Presidential Scholarship Recipient
+Honorable Mention in Virginia Congressional Art Competition
+Merit Award in Drexel National High School Photography Contest
