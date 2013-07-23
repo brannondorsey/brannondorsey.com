@@ -21,7 +21,7 @@ http://getkirby.com/license
 
 */
 
-c::set('license', 'your license key');
+c::set('license', "98492bee4f605d24a2bd51911bcf3659");
 
 
 /* 
@@ -71,7 +71,7 @@ RewriteBase /subfolder
  
 */
 
-c::set('subfolder', 'website'); //c::set('subfolder', false);
+c::set('subfolder', false); //c::set('subfolder', 'website'); 
 
 
 /* 
@@ -89,7 +89,7 @@ http://yourdomain.com/index.php/about
 
 */
 
-c::set('rewrite', true);
+c::set('rewrite', false);
 
 
 /* 

@@ -8,8 +8,8 @@ html {
   -webkit-font-smoothing: antialiased;
 }
 body {
-  font-family: "Museo Sans", Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-family: "museo-sans", "Museo sans" Helvetica, Arial, sans-serif;
+  font-weight: 500;
   font-size: 16px;
   line-height: 26px;
   background: #fff;
@@ -37,10 +37,10 @@ div.header nav.navbar{
 }
 
 .navbar ul{
+  float: right;
   padding-top: 10px;
   display: inline;
   list-style-type: none;
-  float: right;
 }
 
 .navbar ul li{
@@ -153,7 +153,7 @@ footer img{
 
 .project p{
   color: black;
-  font-weight: 100;
+  font-weight: 300;
   width: 960px;
   margin: auto;
   margin-bottom: 20px;
@@ -166,6 +166,7 @@ footer img{
 .project p img.left, .project p img.right{
   width: 466px;
   float: left;
+  margin-bottom: 26px;
 }
 
 .project p img.right{
@@ -195,6 +196,14 @@ footer img{
   width: 100%;
   display: inline-block;
   margin-bottom: 20px;
+}
+
+.project iframe{
+  width: 960px;
+  height: 540px;
+  margin: auto;
+  margin-bottom: 20px;
+  display: block;
 }
 
 /*------------------------------------------------------------*/

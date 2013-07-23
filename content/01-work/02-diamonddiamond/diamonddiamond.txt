@@ -12,9 +12,7 @@ Below are some of the images that people are making with the software. To view m
 <br>
 (image: 2.png alt:Diamond Diamond Image)
 
-(image: 1.png alt:Diamond Diamond Image)
-
-(image: 3.png alt:Diamond Diamond Image)
+(image: 7.png alt:Diamond Diamond Image)
 
 (image: 4.png alt:Diamond Diamond Image)
 
@@ -22,17 +20,7 @@ Below are some of the images that people are making with the software. To view m
 
 (image: 6.png alt:Diamond Diamond Image)
 
-(image: 7.png alt:Diamond Diamond Image)
-
-(image: 8.png alt:Diamond Diamond Image)
-
-(image: 9.png alt:Diamond Diamond Image)
-
 (image: 10.png alt:Diamond Diamond Image)
-
-(image: 11.png alt:Diamond Diamond Image)
-
-(image: 12.png alt:Diamond Diamond Image)
 
 (image: 13.png alt:Diamond Diamond Image)
 

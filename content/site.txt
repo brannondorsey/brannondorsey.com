@@ -6,7 +6,7 @@ Description: The creative portfolio of Brannon Dorsey
 ----
 Keywords: creative code, programming, art and tech, saic, sculpture, photography
 ----
-Copyright: © 2010-(date: Year) (link: http://brannondorsey.com text: Brannon Dorsey)
+Copyright: © (link: http://brannondorsey.com text: Brannon Dorsey) 2011-(date: Year) 
 ----
 twitter: https://twitter.com/brannondorsey
 ----
