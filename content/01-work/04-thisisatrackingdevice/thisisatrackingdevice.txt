@@ -1,6 +1,20 @@
-Title: Tracking Device
+Title: This is a Tracking Device
 ----
-Media: Performance
+Media: Performance, Sculpture, Software
 ----
-Content: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a,
+Year: Forthcoming
+----
+Text: 
+(image: overview.png alt:Map Image class: border)
 
+Small metal cubes with the text 'this is a tracking device' will be placed around public downtown Chicago. Inside each sealed box is a tracking device with a lifespan of 7 days. The data from the location of each box is logged every 3 minutes and eventually visualized in the gallery space using the above software. Public interaction with the Tracker Cubes is entirely voluntary although no information is provided on the cubes themselves.
+
+This work deals with themes of public interaction, temptation, and mystery from the point of the anonymous strangers who move the cubes.The themes alter towards surveillance, power, as well as data study and analysis from the point of the artist and viewers.
+
+The custom mapping software was created using the (link: http://unfoldingmaps.org/ text:Unfolding Maps) Processing library. The source files are available on (link: https://github.com/brannondorsey/thisisatrackingdevice text: Github).
+
+(image: street_view.png alt:Map Image class: border)
+
+(image: time_elapsed.png alt:Map Image class: border)
+
+(image: time.png alt:Map Image class: border)

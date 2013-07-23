@@ -1,3 +1,6 @@
 Title: About
 ----
-Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a,
+Text: <p class="text">Brannon Dorsey is an Art and Technology student at the School of The Art Institute of Chicago. His artistic practice represents a diverse scope of mediums ranging creative code, programming, and new media art to sculpture, photography, and film. His work has shown in New York City, Chicago, Miami, Washington D.C., Philidelphia , and his hometown, Richmond, VA. He has shown in group exhibitions at the Virginia Museum of Fine Arts, the Miami Art Museum, the John F. Kennedy Center for the Performing Arts, and the Smithsonian's American Art Museum.</p><p class="text">
+Email: <a href="mailto:brannon@brannondorsey.com" target="_blank">brannon@brannondorsey.com</a>
+Phone: (804) 212-6625</p>
+<br>

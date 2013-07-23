@@ -2,7 +2,16 @@ Title: Recutter
 ----
 Media: Software
 ----
-needsborder: false
+Year: 2013
 ----
-Content: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a,
+Text: 
+(image: windowed.png Alt: Recutter Fullscreen)
+
+(image: fullscreen.png Alt: Recutter Fullscreen)
+
+Recutter is an experimental media player that randomly re-cuts full length digital movies using their pre-existing cuts. Most digital movie file formats are supported and the software includes basic video control features like pause, stop, rewind, etc... Users can also save their progress in movies, and come back to the same spot later.
+
+This project, like (link: work/diamonddiamond text:Diamond Diamond) has strong <a href="http://en.wikipedia.org/wiki/Dada" target="_blank">dadaist</a> influences. Recutter will be free for download here soon. You can track its progress or add to its development on (link: https://github.com/brannondorsey/recutter text:Github).
+----
+needsborder: false
 
