@@ -3,14 +3,13 @@
   padding: 0px;
 }
 html {
-  height: 101%;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
 }
 body {
   font-family: "museo-sans", "Museo sans" Helvetica, Arial, sans-serif;
   font-weight: 500;
-  font-size: 16px;
+  font-size: 12pt;
   line-height: 26px;
   background: #fff;
   color: #777;
@@ -21,7 +20,7 @@ img {
   border: 0;
 }
 div.container{
-  width: 960px;
+  width: 940px;
   margin: auto;
   overflow: hidden;
 }
@@ -31,7 +30,7 @@ div.header{
   margin-bottom: 20px;
 }
 div.header nav.navbar{
-  width: 960px;
+  width: 940px;
   margin: auto;
   padding-top: 20px;
 }
@@ -39,13 +38,15 @@ div.header nav.navbar{
 .navbar ul{
   float: right;
   padding-top: 10px;
-  display: inline;
+  display: inline-block;
   list-style-type: none;
 }
 
 .navbar ul li{
+  font-size: 16px;
   margin-left: 20px;
   display: inline;
+  float: left;
 }
 
 .navbar a.title{
@@ -72,8 +73,8 @@ div.header nav.navbar{
 div.project-thumbnail{
   position: relative;
   overflow: hidden;
-  width: 216px;
-  height: 216px;
+  width: 210px;
+  height: 210px;
   margin: 10px;
   display: block;
   float: left;
@@ -92,8 +93,8 @@ div.project-thumbnail{
   left: 0px;
   margin: 0px;
   padding: 0px;
-  width: 216px;
-  height: 216px;
+  width: 210px;
+  height: 210px;
 }
 
 .project-thumbnail span#title, .project-thumbnail span#media{
@@ -131,7 +132,7 @@ div.project-thumbnail{
 }
 
 footer{
-  width: 960px;
+  width: 940px;
   margin: auto;
   margin-top: 20px;
   border-top: 2px solid black;
@@ -154,17 +155,17 @@ footer img{
 .project p{
   color: black;
   font-weight: 300;
-  width: 960px;
+  width: 940px;
   margin: auto;
   margin-bottom: 20px;
 }
 
 .project p img{
-  width: 956px;
+  width: 936px;
 }
 
 .project p img.left, .project p img.right{
-  width: 466px;
+  width: 456px;
   float: left;
   margin-bottom: 26px;
 }
@@ -199,7 +200,7 @@ footer img{
 }
 
 .project iframe{
-  width: 960px;
+  width: 940px;
   height: 540px;
   margin: auto;
   margin-bottom: 20px;
@@ -210,6 +211,7 @@ footer img{
 /*STYLING FOR PROJECT PAGINATION*/
 
 .pagination a{
+  font-size: 12pt;
   color: black;
   text-decoration: none;
 }
@@ -221,7 +223,6 @@ footer img{
 .pagination .next{
   float: right;
 }
-
 /*------------------------------------------------------------*/
 /*STYLING FOR RESUME PAGE*/
 div.resume{

@@ -4,7 +4,7 @@
 	<div class="pagination">  
 
 	  <?php if($page->hasNextVisible()): ?>
-	  <a class="next" href="<?php echo $page->nextVisible()->url() ?>"> next &rsaquo;</a>
+	  <a class="next" href="<?php echo $page->nextVisible()->url() ?>">next &rsaquo;</a>
 	  <?php endif ?>
 
 	  <?php if($page->hasPrevVisible()): ?>
