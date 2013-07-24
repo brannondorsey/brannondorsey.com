@@ -7,9 +7,9 @@ Year: 2013
 Text:
 (image: gameplay.png alt: Gameplay Image)
 
-Tag is a two player game with abstract game mechanics similar to jousiting or fencing. Both players share the same computer using the Arrow or WASD keys to move their characters. Players attempt to tag their opponent's sensor, a small darker set of rectangles on the top of each character, without running into the opposing player themselves or allowing their sensor to be tagged. Any non-sensor contact between players results in tie and a restart of the point. First player to five points wins the game.
+Tag is a two player game with abstract game mechanics similar to jousting or fencing. Both players share the same computer using the Arrow or WASD keys to move their characters. Players attempt to tag their opponent's sensor, a small darker set of rectangles on the top of each character, without running into the opposing player themselves or allowing their sensor to be tagged. Any non-sensor contact between players results in tie and a restart of the point. First player to five points wins the game.
 
-The game limits player movement to the confinements of the computer screen, however, hitting the play area's sides allows the player to reappear on opposing side allowing for added strategy and trickery during gameplay. There are also four "powerups" that can randomly activate during the game. These power ups are Boost, Disguise, Constrain, and Sensor Enlarge and each effects the gameplay of both players equally.
+The game limits player movement to the confinements of the computer screen, however, hitting the play area's sides allows the player to reappear on opposing side allowing for added strategy and trickery during gameplay. There are also four power-ups that can randomly activate during the game. These power-ups are Boost, Disguise, Constrain, and Sensor Enlarge and each effects the gameplay of both players equally.
 
 (file: tag.zip text: Download) (Mac) the latest version of Tag for free!
 <br>

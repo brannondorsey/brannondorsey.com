@@ -1,0 +1,1 @@
+<?php home(); //redirects to home page?>
