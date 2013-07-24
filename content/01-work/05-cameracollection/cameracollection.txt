@@ -1,0 +1,10 @@
+Title: Camera Collection
+----
+Media: Sculpture
+----
+Year: 2012
+----
+Text: 
+(image: brownie.png alt: Brownie Camera)
+
+

@@ -11,8 +11,15 @@
   
   <script type="text/javascript" src="//use.typekit.net/duw2pgr.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" ></script>
   
   <script type="text/javascript">
+    $('document').ready(function(){
+        $('img').each(function(){
+          $(this).removeAttr('title');
+        });
+    });
+
 	  //google analytics
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-29006320-1']);

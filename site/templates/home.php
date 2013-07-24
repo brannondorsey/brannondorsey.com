@@ -1,6 +1,4 @@
 <?php snippet('header') ?>
-<?php snippet('menu') ?>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" ></script>
 <script type="text/javascript">
 $('document').ready(function(){
 	$('div.project-thumbnail').hover(function(){
@@ -10,9 +8,11 @@ $('document').ready(function(){
 });
 	
 </script>
+<?php //I have to require this FROM THE SAME FOLDER because using a snippet was causing a strange css bug
+require_once 'menu.include.php' ?>
 <div class="container">
 	<?php $work = $pages->find('work');
-	if($work->hasChildren()) $projects = $work->children()->visible();
+	if($work->hasChildren()) $projects = $work->children()->visible()->flip();
 	foreach($projects as $project){?>
 	<a href="<?php echo $project->url()?>" class="image-link">
 		<div class="project-thumbnail" id="border" >

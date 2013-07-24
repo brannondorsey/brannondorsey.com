@@ -1,0 +1,26 @@
+Title: Diamond Diamond
+----
+Media: Software
+----
+Year: 2013
+----
+Text: 
+(image: software.png alt:Diamond Diamond)
+Diamond Diamond is a free software project allows users to create poetic images using their own text and pictures. It aims to incorporate a balance of randomness and control over its content, leading users to draw inspiration from and make associations with imagery and language in new ways. (link: http://dl.dropbox.com/spa/rkc2n4h63rl85tj/septembertwentythird/public/Diamond%20Diamond.zip text: Download) (Mac) Diamond Diamond.
+
+Below are some of the images that people are making with the software. To view more works made using Diamond Diamond, learn more about the project, or submit your own images visit the (link: http://maidsoftware.wordpress.com text:online gallery).
+<br>
+(image: 1.png alt:Diamond Diamond Image)
+
+(image: 2.png alt:Diamond Diamond Image)
+
+(image: 3.png alt:Diamond Diamond Image)
+
+(image: 4.png alt:Diamond Diamond Image)
+
+(image: 5.png alt:Diamond Diamond Image)
+
+(image: 6.png alt:Diamond Diamond Image)
+
+(image: 7.png alt:Diamond Diamond Image)
+

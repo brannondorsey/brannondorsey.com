@@ -1,5 +1,4 @@
 #Todos
-- figure out why the menu bar disapears sometimes
 - spellcheck and grammarcheck everything
 - make and post videos!
 
@@ -14,3 +13,4 @@
 - add resume
 - favicon
 - figure out analytics
+- figure out why the menu bar disapears sometimes

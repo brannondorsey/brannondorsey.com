@@ -1,0 +1,21 @@
+Title: Traffic Box
+----
+Media: Interactive Sculpture
+----
+Year: 2013
+----
+Text: 
+I built a replica of a (link: http://en.wikipedia.org/wiki/Traffic_light_control_and_coordination text:Traffic Controller Box) that doubles as a portable audio and video surveillance bunker. The box is constructed out of wood and is metal plated. The door is reversable and holds the wheels and handlebar to transport the box on one side while the other side blends in with the rest of the exterior of the box.
+<br>
+
+(image: 1.png alt: Traffic Box view no. 1 class: left)
+
+(image: 2.png alt: Traffic Box view no. 2 class: right)
+
+(image: 3.png alt: Traffic Box view no. 3)
+
+(image: 4.png alt: Traffic Box view no. 4)
+
+(image: 5.png alt: Traffic Box view no. 5)
+
+(image: screenshot.png alt: Traffic Box surveillance still)
