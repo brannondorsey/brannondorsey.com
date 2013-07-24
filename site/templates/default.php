@@ -1,5 +1,5 @@
 <?php snippet('header'); ?>
-<?php require_once 'menu.include.php' ?>
+<?php snippet('menu'); ?>
 <div class="container">
 	<div class="project">
 		<span class="title"><?php echo $page->title(); echo ($page->isChildOf($pages->find('work'))) ? " | " . $page->year() : ""; ?></span>

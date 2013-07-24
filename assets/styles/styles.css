@@ -30,14 +30,16 @@ div.header{
   margin-bottom: 20px;
 }
 div.header nav.navbar{
+  position: relative;
   width: 940px;
   margin: auto;
   padding-top: 20px;
 }
 
 .navbar ul{
-  float: right;
-  margin-top: 10px;
+  position: absolute;
+  top: 30px;
+  right: 0px;
   list-style-type: none;
 }
 
